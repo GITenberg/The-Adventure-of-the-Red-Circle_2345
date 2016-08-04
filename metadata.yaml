@@ -1,0 +1,52 @@
+_repo: The-Adventure-of-the-Red-Circle_2345
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: "\"The Adventure of the Red Circle\" is one of the 56 Sherlock Holmes\
+  \ short stories written by British author Arthur Conan Doyle. It is included in\
+  \ the anthology His Last Bow. \n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2000-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2345'
+  wikidata: Q3041819
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Private investigators -- England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Holmes, Sherlock (Fictitious character) -- Fiction'
+- GITenberg
+title: The Adventure of the Red Circle
+url: http://www.gutenberg.org/ebooks/2345
+wikipedia:
+- https://et.wikipedia.org/wiki/Punase_ringi_m%C3%B5istatus
+- https://fr.wikipedia.org/wiki/L%27Aventure_du_cercle_rouge
+- https://sh.wikipedia.org/wiki/The_Adventure_of_the_Red_Circle
+- https://zh.wikipedia.org/wiki/%E8%B5%A4%E7%92%B0%E9%BB%A8%E6%8E%A2%E6%A1%88
+- https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%84%E8%BC%AA
+- https://pl.wikipedia.org/wiki/Sprawa_Czerwonego_Kr%C4%99gu
+- https://en.wikipedia.org/wiki/The_Adventure_of_the_Red_Circle
+- https://es.wikipedia.org/wiki/El_c%C3%ADrculo_rojo
+- https://en.wikisource.org/wiki/The_Adventure_of_the_Red_Circle
+- https://bg.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F%D1%82_%D0%BA%D1%80%D1%8A%D0%B3_(%D1%80%D0%B0%D0%B7%D0%BA%D0%B0%D0%B7)
+- https://commons.wikimedia.org/wiki/Category:The_Adventure_of_the_Red_Circle
+- https://uk.wikipedia.org/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B5_%D0%BA%D0%BE%D0%BB%D0%BE
+- https://hr.wikipedia.org/wiki/Crveni_krug
+- https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BE%D0%B5_%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE
+- https://ro.wikipedia.org/wiki/%E2%80%9ECercul_ro%C8%99u%E2%80%9D
+- https://sv.wikipedia.org/wiki/Den_r%C3%B6da_cirkeln
