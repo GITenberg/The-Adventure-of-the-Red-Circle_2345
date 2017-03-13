@@ -1,5 +1,8 @@
 _repo: The-Adventure-of-the-Red-Circle_2345
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Doyle, Arthur Conan
@@ -15,6 +18,8 @@ creator:
 description: "\"The Adventure of the Red Circle\" is one of the 56 Sherlock Holmes\
   \ short stories written by British author Arthur Conan Doyle. It is included in\
   \ the anthology His Last Bow. \n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2345#The-Adventure-of-the-Red-Circle
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2000-10-01'
 gutenberg_type: Text
